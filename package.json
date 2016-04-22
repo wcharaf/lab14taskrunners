@@ -1,0 +1,23 @@
+{
+  "name": "lab15taskrunners",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcharaf/lab15taskrunners.git"
+  },
+  "author": "Wissam Charafeddine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcharaf/lab15taskrunners/issues"
+  },
+  "homepage": "https://github.com/wcharaf/lab15taskrunners#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.3.1"
+  }
+}
