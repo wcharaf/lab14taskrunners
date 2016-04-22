@@ -1,0 +1,18 @@
+.jumbotron h1,
+p {
+  text-align: center;
+}
+.col-md-3 {
+  border: 2px solid #000;
+  margin: 3px;
+  background-color: #008000;
+  height: 75px;
+  width: 20%;
+  text-align: center;
+}
+.row {
+  margin: auto;
+}
+#important {
+  color: #f00;
+}
